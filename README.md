@@ -1,6 +1,10 @@
 # German-traffic-sign-classification
 In this project I create a Deep learning model for traffic signs classification an I got 97.78% accuracy on test dataset
 
+I used data from Kaggel , data0.pickle file in the link below :
+
+https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed?select=data0.pickle
+
 ## First I did Data preprocessing :
 
 1- edit the input shape
